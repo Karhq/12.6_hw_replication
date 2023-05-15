@@ -34,4 +34,13 @@
 
 #### Ответ:  
 
+Инициализация mysql, передача прав под для логов.   
+![Скрин](https://github.com/Karhq/12.6_hw_replication/blob/main/1.png)  
+
+Конфигурационные файлы для Master и Slave 
+![Скрин](https://github.com/Karhq/12.6_hw_replication/blob/main/3.png)  
+
+Рабочая пара Master/Slave  
+![Скрин](https://github.com/Karhq/12.6_hw_replication/blob/main/2.png)  
+
 ---
